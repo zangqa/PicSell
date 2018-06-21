@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "11528965965",
+    "firebase_url": "https://picsell-f6c3e.firebaseio.com",
+    "project_id": "picsell-f6c3e",
+    "storage_bucket": "picsell-f6c3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11528965965:android:d12871c60168d14b",
+        "android_client_info": {
+          "package_name": "com.zangqa.picsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11528965965-j00pneg6cso05ptdu2httiknn0igm05h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zangqa.picsell",
+            "certificate_hash": "dc21dec55f378f8e195d82a0b373e2a8bca1267e"
+          }
+        },
+        {
+          "client_id": "11528965965-vagl910mfguk91uc5vnhqon9j4npv0i6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "11528965965-vagl910mfguk91uc5vnhqon9j4npv0i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePTg5zi-DEk_63sVeBubTUqkzX_Q4Hkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11528965965-vagl910mfguk91uc5vnhqon9j4npv0i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
